@@ -1,0 +1,19 @@
+(v.05042022)
+Fixed / added:
+1.) fixed movment glitch
+2.) added stacking
+3.) fixed a few more small bugs
+
+To do:
+1.) gameover
+2.) 2048 multi-tile movement
+
+(Beta v.1.0)
+Fixed / added:
+1.) 2048 multi-tile movement
+2.) smoother animation
+3.) fixed full canvas crash
+
+(Beta v1.1)
+Fixed / added:
+1.) retexture
